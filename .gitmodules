@@ -1,3 +1,6 @@
 [submodule "Web/jquery.ime"]
 	path = Web/jquery.ime
 	url = git@github.com:wikimedia/jquery.ime.git
+[submodule "Web/urapa"]
+	path = Web/urapa
+	url = git@github.com:mirontoli/urapa.git
