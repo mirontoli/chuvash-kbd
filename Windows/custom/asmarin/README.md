@@ -38,3 +38,20 @@ This keyboard layout uses the Standard Russian layout and additional Chuvash let
 - button OEM_5 (between ж and Enter) + AltGr = diaeresis (А -> Ӓ, а -> ӓ, О -> Ӧ, о -> ӧ, Ж -> Ӝ, ж -> ӝ, У -> Ӱ, у -> ӱ)
 - button OEM_5 (between ж and Enter) + AltGr + Shift = tilde (О -> Õ, о -> õ)
 
+#Screenshots
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-001.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-002.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-003.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-004.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-005.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-006.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-007.png)
+
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/asm-install-008.png)
