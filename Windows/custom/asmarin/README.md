@@ -1,3 +1,18 @@
+# About the Asmarin keyboard layout
+
+The Asmarin Keyboard Layout for Windows is a special keyboard layout that is designed for digitalization of the Asmarin Chuvash Dictionary. It contains the contemporary Chuvash letters: ӑ, ӗ, ҫ, ӳ. Plus old Chuvash letters and other letters used in the dictionary.
+
+# How to install
+
+Please note, this Asmarin keyboard layout can only be installed on Windows (XP, Vista, 7, 8, 10).
+
+- Go to the download page: http://bit.ly/asm-kbd
+- Download asmarin.zip
+- Unzip files
+- Run setup.exe
+
+# How to use it
+
 This keyboard layout uses the Standard Russian layout and additional Chuvash letters plus historical letters. The combination of AltGr + base letters will produce:
 
 - А -> Ӑ
@@ -22,3 +37,4 @@ This keyboard layout uses the Standard Russian layout and additional Chuvash let
 - button OEM_5 (between ж and Enter) + Shift = double acute (У -> Ӳ, у -> ӳ, О -> Ő, о -> ő)
 - button OEM_5 (between ж and Enter) + AltGr = diaeresis (А -> Ӓ, а -> ӓ, О -> Ӧ, о -> ӧ, Ж -> Ӝ, ж -> ӝ, У -> Ӱ, у -> ӱ)
 - button OEM_5 (between ж and Enter) + AltGr + Shift = tilde (О -> Õ, о -> õ)
+
