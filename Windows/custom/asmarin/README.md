@@ -13,6 +13,8 @@ Please note, this Asmarin keyboard layout can only be installed on Windows (XP, 
 
 # How to use it
 
+![](https://github.com/mirontoli/chuvash-kbd/blob/master/Windows/custom/asmarin/readme-assets/altgr.png)
+
 This keyboard layout uses the Standard Russian layout and additional Chuvash letters plus historical letters. The combination of AltGr + base letters will produce:
 
 - А -> Ӑ
