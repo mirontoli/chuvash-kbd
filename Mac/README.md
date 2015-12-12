@@ -14,4 +14,4 @@ Chuvash Keyboard Layout (Input Source) is created using Ukulele according the st
 
 ## Layout
 
-The layout is the same as the one for Windows. Instead of AltGR, on Mac we can use Option (left and right) to type ӐӑӖӗҪҫӲӳ. Details about the layout are in the [ChuvashKeyboardOSX.pdf file](ChuvashKeyboardOSX.pdf?raw=true)
+The layout is the same as the one for Windows. Instead of AltGR, on Mac we can use Option (left and right) to type ӐӑӖӗҪҫӲӳ. Details about the layout are in the [ChuvashKeyboardOSX.pdf file](ChuvashKeyboardOSX.pdf)
