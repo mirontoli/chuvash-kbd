@@ -2,7 +2,7 @@
 Chuvash Keyboard Layout (Input Source) is created using Ukulele according the steps described in [Salvatore Testas blog post](https://saltesta.com/hack/customizing-mac-input-source-icon/).
 
 
-![Choosing Chuvash Input source](cv-kbd-mac.png?raw=true)
+![Choosing Chuvash Input source](screenshots/cv-kbd-mac-000.png?raw=true)
 
 ## How to install
 1. Download [ChuvashKeyboardOSX.bundle.zip](ChuvashKeyboardOSX.bundle.zip?raw=true)
