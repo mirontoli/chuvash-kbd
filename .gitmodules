@@ -4,3 +4,6 @@
 [submodule "Web/urapa"]
 	path = Web/urapa
 	url = git@github.com:mirontoli/urapa.git
+[submodule "iOS/chuvash-ios-kbd"]
+	path = iOS/chuvash-ios-kbd
+	url = git@github.com:mirontoli/chuvash-ios-kbd.git
