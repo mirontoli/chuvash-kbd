@@ -30,3 +30,6 @@ Chuvash Keyboard Layout (Input Source) is created using Ukulele according the st
 ## Layout
 
 The layout is the same as the one for Windows. Instead of AltGR, on Mac we can use Option (left and right) to type ӐӑӖӗҪҫӲӳ. Details about the layout are in the [ChuvashKeyboardOSX.pdf file](ChuvashKeyboardOSX.pdf)
+
+## Support for other languages
+2016-11-01 support for Tatar, Bashkir, Udmurt, Mari, Kazakh and Uzbek was added, which is implemented through dead keys. Use keyboard preview to find out how to type these letters.
