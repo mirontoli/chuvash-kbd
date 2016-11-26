@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.1.113 on 2016-11-01 at 12:13 (CET)-->
-<keyboard group="7" id="19544" name="Chuvash - PC" maxout="2">
+<!--Last edited by Ukelele version 3.1.1.113 on 2016-11-15 at 15:22 (CET)-->
+<keyboard group="126" id="-30734" name="Chuvash - PC" maxout="2">
 	<layouts>
 		<layout first="0" last="0" mapSet="138" modifiers="30"/>
 	</layouts>
@@ -395,7 +395,7 @@
 			<key code="12" action="ј"/>
 			<key code="13" action="џ"/>
 			<key code="14" output="ӳ"/>
-			<key code="15" output="ќ"/>
+			<key code="15" output="ү"/>
 			<key code="16" output="њ"/>
 			<key code="17" output="ӗ"/>
 			<key code="18" action="!"/>
@@ -411,18 +411,18 @@
 			<key code="28" output="₽"/>
 			<key code="29" output=")"/>
 			<key code="30" output="«"/>
-			<key code="31" output="&#x0027;"/>
+			<key code="31" output="ө"/>
 			<key code="32" output="ѓ"/>
 			<key code="33" output="һ"/>
-			<key code="34" output="ѕ"/>
-			<key code="35" output="‘"/>
+			<key code="34" output="ә"/>
+			<key code="35" output="&#x0027;"/>
 			<key code="36" output="&#x000D;"/>
-			<key code="37" output="l"/>
+			<key code="37" action="l"/>
 			<key code="38" output="∆"/>
 			<key code="39" output="є"/>
 			<key code="40" output="љ"/>
 			<key code="41" output="җ"/>
-			<key code="42" output="\"/>
+			<key code="42" output="/"/>
 			<key code="43" output="&#x003C;"/>
 			<key code="44" output="ї"/>
 			<key code="45" output="ң"/>
@@ -504,7 +504,7 @@
 			<key code="12" output="Ј"/>
 			<key code="13" output="Џ"/>
 			<key code="14" output="Ӳ"/>
-			<key code="15" output="Ќ"/>
+			<key code="15" output="Ү"/>
 			<key code="16" output="Њ"/>
 			<key code="17" output="Ӗ"/>
 			<key code="18" output="™"/>
@@ -520,10 +520,10 @@
 			<key code="28" output="°"/>
 			<key code="29" output="}"/>
 			<key code="30" output="»"/>
-			<key code="31" output="„"/>
+			<key code="31" output="Ө"/>
 			<key code="32" output="Ѓ"/>
 			<key code="33" output="Һ"/>
-			<key code="34" output="Ѕ"/>
+			<key code="34" output="Ә"/>
 			<key code="35" output="’"/>
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="L"/>
@@ -1150,6 +1150,9 @@
 		<action id="`">
 			<when state="none" next="Dead Key State 2"/>
 		</action>
+		<action id="l">
+			<when state="none" next="Dead Key State 7"/>
+		</action>
 		<action id="z">
 			<when state="none" next="Dead Key State 3"/>
 		</action>
@@ -1158,6 +1161,7 @@
 			<when state="Dead Key State 0" output="Ӓ"/>
 			<when state="Dead Key State 1" output="Ә"/>
 			<when state="Dead Key State 5" output="Ӑ"/>
+			<when state="Dead Key State 7" output="Ă"/>
 		</action>
 		<action id="Г">
 			<when state="none" output="Г"/>
@@ -1168,6 +1172,7 @@
 			<when state="none" output="Е"/>
 			<when state="Dead Key State 0" output="Ё"/>
 			<when state="Dead Key State 5" output="Ӗ"/>
+			<when state="Dead Key State 7" output="Ĕ"/>
 		</action>
 		<action id="Ж">
 			<when state="none" output="Ж"/>
@@ -1203,6 +1208,7 @@
 		<action id="С">
 			<when state="none" output="С"/>
 			<when state="Dead Key State 3" output="Ҫ"/>
+			<when state="Dead Key State 7" output="Ç"/>
 		</action>
 		<action id="У">
 			<when state="none" output="У"/>
@@ -1210,6 +1216,7 @@
 			<when state="Dead Key State 1" output="Ү"/>
 			<when state="Dead Key State 4" output="Ұ"/>
 			<when state="Dead Key State 5" output="Ў"/>
+			<when state="Dead Key State 7" output="Ÿ"/>
 		</action>
 		<action id="Х">
 			<when state="none" output="Х"/>
@@ -1232,6 +1239,7 @@
 			<when state="Dead Key State 0" output="ӓ"/>
 			<when state="Dead Key State 1" output="ә"/>
 			<when state="Dead Key State 5" output="ӑ"/>
+			<when state="Dead Key State 7" output="ă"/>
 		</action>
 		<action id="г">
 			<when state="none" output="г"/>
@@ -1242,6 +1250,7 @@
 			<when state="none" output="е"/>
 			<when state="Dead Key State 0" output="ё"/>
 			<when state="Dead Key State 5" output="ӗ"/>
+			<when state="Dead Key State 7" output="ĕ"/>
 		</action>
 		<action id="ж">
 			<when state="none" output="ж"/>
@@ -1277,6 +1286,7 @@
 		<action id="с">
 			<when state="none" output="с"/>
 			<when state="Dead Key State 3" output="ҫ"/>
+			<when state="Dead Key State 7" output="ç"/>
 		</action>
 		<action id="у">
 			<when state="none" output="у"/>
@@ -1284,6 +1294,7 @@
 			<when state="Dead Key State 1" output="ү"/>
 			<when state="Dead Key State 4" output="ұ"/>
 			<when state="Dead Key State 5" output="ў"/>
+			<when state="Dead Key State 7" output="ÿ"/>
 		</action>
 		<action id="х">
 			<when state="none" output="х"/>
@@ -1325,5 +1336,6 @@
 		<when state="Dead Key State 4" output="-"/>
 		<when state="Dead Key State 5" output="˘"/>
 		<when state="Dead Key State 6" output="ʼ"/>
+		<when state="Dead Key State 7" output="L"/>
 	</terminators>
 </keyboard>
