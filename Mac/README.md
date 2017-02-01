@@ -85,3 +85,13 @@ The names of the keyboard keys are from the [ISO 9995 standard](https://en.wikip
 
 ## Support for other languages
 2016-11-01 support for Tatar, Bashkir, Udmurt, Mari, Kazakh and Uzbek was added, which is implemented through dead keys. Use keyboard preview to find out how to type these letters.
+
+## CVLat
+CVLat is a Latin based Chuvash writing system, formalized by @armuti. It is based on the English alphabet and additional ă ĕ ş š ü. To write them you only need to use the International Extended Keyboard Layout on Mac OS and choose diacritics before printing the main letter.
+
+| Diacritics|Dead Key                | Then|Result|
+| ----------|------------------------|-----|------|
+| Breve     |<kbd>⌥</kbd><kbd>b</kbd>|a e  |ă ĕ   |
+| Cedilla   |<kbd>⌥</kbd><kbd>c</kbd>|s    |ş     |
+| Diaeresis |<kbd>⌥</kbd><kbd>u</kbd>|u    |ü     |
+| Caron     |<kbd>⌥</kbd><kbd>v</kbd>|s    |š     |
