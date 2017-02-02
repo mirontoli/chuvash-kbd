@@ -37,7 +37,7 @@ The layout is the same as the one for Windows. Instead of AltGR, on Mac we can u
 |◊|<kbd>⌥</kbd>-п|.|
 |†|<kbd>⌥</kbd>-р|.|
 |┐|<kbd>⇧</kbd><kbd>⌥</kbd>-р|.|
-|‖|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>\</kbd>|.|
+|‖|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>\\</kbd>|.|
 |љ|<kbd>⌥</kbd>-л|.|
 |җ|<kbd>⌥</kbd>-ж|.|
 |є|<kbd>⌥</kbd>-э|.|
@@ -51,16 +51,16 @@ The layout is the same as the one for Windows. Instead of AltGR, on Mac we can u
 
 |Dead key|State|Entering|Combinations|
 |--------|-----|--------|------------|
-|Diaeresis|0|<kbd>⌥</kbd>-<kbd>AD01</kbd>|ӱёӟӹӓӧӝӵӥ|
-|Special|1|<kbd>⌥</kbd>-<kbd>AС01</kbd>|үәөҕ|
-|Descender|2|<kbd>⇧</kbd><kbd>⌥</kbd>-<kbd>AC02</kbd>|қџңҗҳ|
-|Cedilla|3|<kbd>⌥</kbd>-<kbd>AС02</kbd>|ҫҙ|
-|Stroke|4|<kbd>⌥</kbd>-<kbd>AB01</kbd>|ұҡғҥ|
-|Breve|5|<kbd>⌥</kbd>-<kbd>AD02</kbd>|ўӗӑо̆|
-|Acute|6|<kbd>⌥</kbd>-<kbd>AE01</kbd>|ќѓ|
-|Latin Chuvash|7|<kbd>⌥</kbd><kbd>AС09</kbd>|ÿĕçă|
-|Double Acute|8|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>AD01</kbd>|ӳ ő (lat)|
-|Caron|9|<kbd>⌥</kbd><kbd>AB04</kbd>|р̌ т̌ Ť (lat)|
+|Diaeresis|0|<kbd>⌥</kbd>-<kbd>й</kbd>|ӱёӟӹӓӧӝӵӥ|
+|Special|1|<kbd>⌥</kbd>-<kbd>ф</kbd>|үәөҕ|
+|Descender|2|<kbd>⇧</kbd><kbd>⌥</kbd>-<kbd>ы</kbd>|қџңҗҳ|
+|Cedilla|3|<kbd>⌥</kbd>-<kbd>ы</kbd>|ҫҙ|
+|Stroke|4|<kbd>⌥</kbd>-<kbd>я</kbd>|ұҡғҥ|
+|Breve|5|<kbd>⌥</kbd>-<kbd>ц</kbd>|ўӗӑо̆|
+|Acute|6|<kbd>⌥</kbd>-<kbd>1</kbd>|ќѓ|
+|Latin Chuvash|7|<kbd>⌥</kbd><kbd>д</kbd>|ÿĕçă|
+|Double Acute|8|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>1</kbd>|ӳ ő (lat)|
+|Caron|9|<kbd>⌥</kbd><kbd>м</kbd>|р̌ т̌ Ť (lat)|
 
 
 ## Accented characters
