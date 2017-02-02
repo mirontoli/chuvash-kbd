@@ -8,7 +8,7 @@ This folder contains intructions for setting up the Chuvash Keyboard.
 |-------|----------|----------|---------|-------|
 |Windows|          |2017-02-02|   |   |
 |Mac OS |          |          |   |   |
-|iOS    |          |          |   |   |
+|iOS    |          |2017-02-02|   |   |
 |Android|          |2017-02-02|   |   |
 |Linux  |          |2017-02-02|   |   |
 |Sent*  |          |   |   |   |
