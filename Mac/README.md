@@ -22,29 +22,29 @@ The layout is the same as the one for Windows. Instead of AltGR, on Mac we can u
 ## Option Modifier
 |Symbol|Keys|Description|
 |------|----|-----------|
-|ӑ|<kbd>⌥</kbd>-а|Cyrillic a breve, press <kbd>⇧</kbd> to capitalize|
-|ӗ|<kbd>⌥</kbd>-е|.|
-|ҫ|<kbd>⌥</kbd>-с|.|
-|ӳ|<kbd>⌥</kbd>-у|.|
-|ү|<kbd>⌥</kbd>-к|.|
-|њ|<kbd>⌥</kbd>-н|.|
-|ҥ!|<kbd>⌥</kbd>-г|.|
-|ә|<kbd>⌥</kbd>-ш|.|
-|ө|<kbd>⌥</kbd>-щ|.|
-|'|<kbd>⌥</kbd>-з|.|
-|һ|<kbd>⌥</kbd>-х|.|
-|ћ|<kbd>⌥</kbd>-в|.|
-|◊|<kbd>⌥</kbd>-п|.|
-|†|<kbd>⌥</kbd>-р|.|
-|┐|<kbd>⇧</kbd><kbd>⌥</kbd>-р|.|
-|‖|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>\\</kbd>|.|
-|љ|<kbd>⌥</kbd>-л|.|
-|җ|<kbd>⌥</kbd>-ж|.|
-|є|<kbd>⌥</kbd>-э|.|
-|ђ|<kbd>⌥</kbd>-ч|.|
-|і|<kbd>⌥</kbd>-и|.|
-|ң|<kbd>⌥</kbd>-т|.|
-|ї|<kbd>⌥</kbd>-.|.|
+|ӑ|<kbd>⌥</kbd>-а|Cyrillic a with breve, press <kbd>⇧</kbd> to capitalize|
+|ӗ|<kbd>⌥</kbd>-е|Cyrillic e with breve|
+|ҫ|<kbd>⌥</kbd>-с|Cyrillic s with cedilla|
+|ӳ|<kbd>⌥</kbd>-у|Cyrillic u with double acute|
+|ү|<kbd>⌥</kbd>-к|Cyrillic ue|
+|њ|<kbd>⌥</kbd>-н|Nje|
+|ҥ|<kbd>⌥</kbd>-г|En-ghe|
+|ә|<kbd>⌥</kbd>-ш|Cyrillic schwa|
+|ө|<kbd>⌥</kbd>-щ|Cyrillic oe|
+|'|<kbd>⌥</kbd>-з|Apostroph|
+|һ|<kbd>⌥</kbd>-х|Shha|
+|ћ|<kbd>⌥</kbd>-в|Tshe|
+|◊|<kbd>⌥</kbd>-п|Lozenge|
+|†|<kbd>⌥</kbd>-р|Obelisk|
+|┐|<kbd>⇧</kbd><kbd>⌥</kbd>-р|Box-drawing character|
+|‖|<kbd>⇧</kbd><kbd>⌥</kbd><kbd>\\</kbd>|Magnitude|
+|љ|<kbd>⌥</kbd>-л|Lje|
+|җ|<kbd>⌥</kbd>-ж|Zhje|
+|є|<kbd>⌥</kbd>-э|Ukrainian Ye|
+|ђ|<kbd>⌥</kbd>-ч|Dje|
+|і|<kbd>⌥</kbd>-и|Cyrillic Dotted I|
+|ң|<kbd>⌥</kbd>-т|En with descender|
+|ї|<kbd>⌥</kbd>-.|Cyrillic Yi|
 
 
 ## Dead keys
