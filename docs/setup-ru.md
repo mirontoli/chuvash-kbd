@@ -89,6 +89,40 @@
 
 ## Mac
 
+Чувашская раскладка на Mac также как и на Windows позволяет вам печатать русский текст 
+и чувашский при помощи сочетания клавишы <kbd>⌥</kbd> (левый или правый Option) и букв А Е С У.
+
+![Choosing Chuvash Input source](img/cv-kbd-mac-000.png?raw=true)
+
+## How to install
+1. Сохраниту установочный файл [ChuvashKeyboardOSX.bundle.zip](http://bit.ly/cv-kbd-mac) и распакуйте его.
+
+  ![Download](img/cv-kbd-mac-001.png?raw=true)
+
+1. Откройте скрытую папку `~/Library/Keyboard\ Layouts/` при помощи Терминала:
+  
+  ```open ~/Library/Keyboard\ Layouts/```
+
+  ![Open](img/cv-kbd-mac-003.png?raw=true)
+
+1. Скопируйте `ChuvashKeyboardOSX.bundle` в папку `Keyboard Layouts`.
+
+  ![Copy](img/cv-kbd-mac-004.png?raw=true)
+
+1. Перезагрузите компьютер
+
+1. Зайдите в настройки клавиатуры и добавьте `Chuvash - PC`. 
+
+  ![Add input source](img/cv-kbd-mac-005.png?raw=true)
+
+Готово!
+
+### Дополнительные буквы
+
+В чувашскую раскладку для Mac OS мы добавили множество дополнительных букв: старых чувашских и букв других народов Российской Федерации. 
+Если у вас есть интерес и надобность писать тексты на русском, чувашском, татарском, и скажем, на удмуртском, посмотрите подробности на 
+[странице проекта раскладки для Mac OS](https://github.com/mirontoli/chuvash-kbd/tree/master/Mac)
+
 ## Web
 Если вы у чужого компьютера или у вас нет прав устанавливать программы на компьютере (например, на работе), 
 то вы можете воспользоваться виртуальной клавиатурой через ваш браузер. Зайдите на адрес [chuvashskaya.klaviatura.su](http://bit.ly/cv-kbd-web). Набрав текст на чувашском, скопируйте его куда вам надо.

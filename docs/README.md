@@ -7,7 +7,7 @@ This folder contains intructions for setting up the Chuvash Keyboard.
 |       |[Chuvash](setup-cv.md)|[Russian](setup-ru.md)|[Esperanto](setup-eo.md)|[English](setup-en.md)|
 |-------|----------|----------|---------|-------|
 |Windows|          |2017-02-02|   |   |
-|Mac OS |          |          |   |   |
+|Mac OS |          |2017-02-02|   |2017-02-02|
 |iOS    |          |2017-02-02|   |   |
 |Android|          |2017-02-02|   |   |
 |Linux  |          |2017-02-02|   |   |

@@ -5,22 +5,8 @@ Chuvash Keyboard Layout (Input Source) is created using Ukulele according the st
 ![Choosing Chuvash Input source](../docs/img/cv-kbd-mac-000.png?raw=true)
 
 ## How to install
-1. Download [ChuvashKeyboardOSX.bundle](ChuvashKeyboardOSX.bundle?raw=true)
 
-  ![Download](../docs/img/cv-kbd-mac-001.png?raw=true)
-
-1. Open `~/Library/Keyboard\ Layouts/` in Finder from terminal (because it is a hidden folder)
-
-  ![Open](../docs/img/cv-kbd-mac-003.png?raw=true)
-
-1. Copy ChuvashKeyboardOSX.bundle into Keyboard Layouts directory.
-
-  ![Copy](../docs/img/cv-kbd-mac-004.png?raw=true)
-
-1. Restart computer
-1. Add Chuvash - PC as input source. 
-
-  ![Add input source](../docs/img/cv-kbd-mac-005.png?raw=true)
+Follow the instructions provided in the [`docs` section](../docs/setup-en.md#mac)
 
 ## Design principles
 
