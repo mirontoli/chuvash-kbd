@@ -106,7 +106,7 @@ We will show step-by-step instructions for the popular distro Ubuntu.
 
 ## Mac
 
-The Chuvash Keyboard Layout (Input Source) is created using Ukulele according to the steps described in [Salvatore Testas blog post](https://saltesta.com/hack/customizing-mac-input-source-icon/).
+The Chuvash Keyboard Layout (Input Source) was created using Ukulele according to the steps described in [Salvatore Testas blog post](https://saltesta.com/hack/customizing-mac-input-source-icon/).
 
 
 ![Choosing Chuvash Input source](img/cv-kbd-mac-000.png?raw=true)
