@@ -1,3 +1,4 @@
 - Multiling
 - AnysoftKeyboard
+- SwiftKey
 - Other
