@@ -6,7 +6,8 @@ Chuvash Keyboard Layout (Input Source) is created using Ukulele according the st
 
 ## How to install
 
-Follow the instructions provided in the [`docs` section](../docs/setup-en.md#mac)
+Follow the instructions provided in the [`docs` section](../docs/setup-en.md#mac). 
+The installation has been tested on macOS 10.11 (El capitan) - 11.0 (Big Sur).  
 
 ## Design principles
 
